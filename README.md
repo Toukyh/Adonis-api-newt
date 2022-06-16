@@ -1,4 +1,4 @@
-# Adonis fullstack application
+# Adonis API with JWT
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
